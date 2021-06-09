@@ -22,11 +22,21 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/71193719/121285428-c5046480-c8b4-11eb-8e4c-492c1fb91f9e.png)
+
+Button active state:
+
+![image](https://user-images.githubusercontent.com/71193719/121285453-cdf53600-c8b4-11eb-8309-320a4331fb92.png)
+
+Mobile:
+
+![image](https://user-images.githubusercontent.com/71193719/121285496-de0d1580-c8b4-11eb-870f-6e8412c87019.png)
+![image](https://user-images.githubusercontent.com/71193719/121285509-e36a6000-c8b4-11eb-98fe-b57d7d8875c2.png)
+
 
 ### Links
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://mariagabs.github.io/3-column-preview-card/)
 
 ## My process
 
