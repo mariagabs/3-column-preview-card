@@ -114,7 +114,28 @@ p {
   color: var(--orange);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 885px) and (min-width: 600px) {
+  .card {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      "sedans suvs"
+      "luxury luxury";
+  }
+
+  .card-sedans {
+    border-radius: 8px 0 0 0;
+  }
+
+  .card-suvs {
+    border-radius: 0 8px 0 0;
+  }
+
+  .card-luxury {
+    border-radius: 0 0 8px 8px;
+  }
+}
+
+@media (max-width: 599px) {
   .container {
     margin: 30px;
   }
